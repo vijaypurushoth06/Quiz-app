@@ -1,5 +1,5 @@
 <h1>Open Trivia API Simple Quiz application using HTML, CSS, JS</h1>
 
-# To see the project live click below
+# project in live
 
 #### https://quick-quiz-app.netlify.app/
